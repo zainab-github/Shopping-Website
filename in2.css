@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(34, 42, 46);
+  color: burlywood;
+}
+h3 {
+  color: burlywood;
+}
+h4 {
+  color: burlywood;
+}
+ul {
+  color: burlywood;
+}
+.btn {
+  display: inline-block;
+  background: crimson;
+  color: white;
+  padding: 8px 30px;
+  margin: 30px 0;
+  border-radius: 30px;
+  transition: 0.5s;
+}
+.btn:hover {
+  background-color: rgba(250, 26, 53, 0.881);
+}
